@@ -1,5 +1,4 @@
 alias sl="ls"
-
 alias dc="cd"
 alias python="python3.9"
 gitfancy='git log --all --graph --decorate'
