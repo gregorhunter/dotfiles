@@ -109,7 +109,6 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-
 # enable chromium from terminal
 alias 'chromium'=~/Chromium/run.sh
 
